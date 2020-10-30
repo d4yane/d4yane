@@ -1,16 +1,14 @@
-### Hi there 👋
+# Dayane Ramos
 
-<!--
-**d4yane/d4yane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/dayane-ramos/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:d4yaneramos@gmail.com)](mailto:d4yaneramos@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Bienvenue, être humain!
+
+<img style="margin: 0 auto" src="https://media0.giphy.com/media/jd6TVgsph6w7e/giphy.gif" height="280">
+
+### MAY THE FORCE BE WITH YOU!!
+
+Sou estudante de Ciência de Dados e Inteligência Artificial pela UFPB, tenho 19 anos e resido em João Pessoa-PB.
