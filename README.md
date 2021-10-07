@@ -11,4 +11,4 @@
 
 ### MAY THE FORCE BE WITH YOU!!
 
-Sou estudante de Ciência de Dados e Inteligência Artificial pela UFPB, tenho 19 anos e resido em João Pessoa-PB.
+Sou estudante de Ciência de Dados e Inteligência Artificial pela UFPB, tenho 20 anos e resido em João Pessoa-PB.
