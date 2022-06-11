@@ -11,4 +11,4 @@
 
 ### MAY THE FORCE BE WITH YOU!!
 
-Sou estudante de Ciência de Dados e Inteligência Artificial pela UFPB, tenho 20 anos e resido em João Pessoa-PB.
+![Snake animation](https://github.com/d4yane/d4yane/blob/output/github-contribution-grid-snake.svg)
