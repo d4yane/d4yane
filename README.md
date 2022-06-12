@@ -1,4 +1,4 @@
-#day
+
 <div align="center">
   <a href="https://github.com/d4yane">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=d4yane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
